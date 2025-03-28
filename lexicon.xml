@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<lexicon version="1.0"
-      xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
+<?xml version="1.0" encoding="UTF-8" ?>
+<lexicon
+  version="1.0"
+  xmlns="http://www.w3.org/2005/01/pronunciation-lexicon"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
         http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
-      alphabet="ipa" xml:lang="en-US">
+  alphabet="sapi"
+  xml:lang="zh-CN"
+>
+  <!--AzureTTS 多音字字典，1234分别为平升转降，5为轻声 -->
   <lexeme>
-    <grapheme>Xi'an</grapheme>
-    <phoneme>ʃɪˈæn</phoneme>
-  </lexeme>
-  <lexeme>
-    <grapheme>Shen Zile</grapheme>
-    <phoneme>ˈʃɛn ˈʤi ˈlə</phoneme>
+    <grapheme>4214</grapheme>
+    <phoneme>si 4 - er 4 - yi 1 - si 4</phoneme>
   </lexeme>
 </lexicon>
